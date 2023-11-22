@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Saravana</h1>
-<h3>The Guy who loves to code</h3>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nitish-kumar-b54161219/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -9,9 +8,7 @@
 </a>
 
 ### Glad to see you here!  
-I'm a Java developer, My primary focus is on crafting robust and scalable backend systems using Java. Over the years, I've honed my skills in areas such as API design, database management, and performance optimization.
-I'm passionate about delivering reliable solutions that drive the success of applications. My experience with Java frameworks like Spring and Hibernate, coupled with a deep understanding of server-side architecture, ensures that I can efficiently build and maintain backend components.
-I thrive on challenges and am committed to staying updated with the latest trends in backend development.   
+I'm a Java developer who loves building robust and scalable backend systems. From API design to database management, I enjoy tackling challenges and optimizing performance. With experience in Java frameworks like Spring and Hibernate, I stay updated on the latest trends in backend development to ensure efficient solutions.
   
 
 <br/>
