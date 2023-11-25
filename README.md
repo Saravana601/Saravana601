@@ -17,15 +17,15 @@ I'm a Java developer who loves building robust and scalable backend systems. Fro
 ![Profile views counter](https://komarev.com/ghpvc/?username=Saravana601&&style=flat-square)  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on **Spring boot, MicroServices**
+- 🔭 I’m currently working on **Spring boot, MicroServices**.
 
-- 🌱 I’m currently Mastering Data Structures and Algorithm
+- 🌱 I’m currently Mastering Data Structures and Algorithm.
 
-- 👨‍💻 All of my projects are available at [My gitHub](https://github.com/Saravana601)
+- 👨‍💻 All of my projects are available at [My gitHub](https://github.com/Saravana601).
 
-- ❓ Ask me about anything related to Java Backend and related technologies
+- ❓ Ask me about anything related to Java Backend and related technologies.
   
-- 📫 How to reach me **saravanad2401@gmail.com**
+- 📫 How to reach me **saravanad2401@gmail.com**.
 
 </td><td valign="top" width="50%" border="none">
 
